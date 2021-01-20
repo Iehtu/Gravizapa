@@ -1,0 +1,19 @@
+{
+  "name": "gravizapa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ornikar/eslint-config-node": "^10.1.1",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
